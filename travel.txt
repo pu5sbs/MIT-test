@@ -3,6 +3,7 @@ Packing List
 --- Account pu5sbs ---
 ----------------------
 - Shoes
+- add camera to the list by marcosffsouza "forked"
 -----------------------------
 --- Account Marcosffsouza ---
 -----------------------------
